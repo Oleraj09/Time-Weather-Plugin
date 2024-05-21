@@ -7,7 +7,7 @@ you can edit and customize the navbar. The shortcode provide built in Navbar.
 
 
 
-<img src="https://github.com/Oleraj09/Time-Weather-Plugin/blob/master/Demo/style.png" alt="">
+<img src="https://github.com/Oleraj09/Time-Weather-Plugin/blob/master/Demo/styles.png" alt="">
 
 
 <img src="https://github.com/Oleraj09/Time-Weather-Plugin/blob/master/Demo/admin.png" alt="User Dashboard">
@@ -15,8 +15,7 @@ you can edit and customize the navbar. The shortcode provide built in Navbar.
 
 
 
-## Run Webapp
-To run this application must require node module and composer autoload module.
+## Installation 
 
 - 1st Step, download this as zip
 
