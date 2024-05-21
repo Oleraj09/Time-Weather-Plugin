@@ -1,73 +1,36 @@
-## Meal App :: Daily Assistance of you small mess!!
-Meal App is created with only HTML,CSS,JS,Bootstrap for Frontend Developemnt. For Backend Development used PHP framework Laravel and MySQL for Database Design. 
-Also there is Manager and Member Role system. Manager can do extra feature to manage the member and show the summary of the month. 
+## Time and Weather :: A Simple tinny navbar plugin!!
+Time and Weather update plugin is created with HTML,CSS,JS,and PHP. It is used in wordpress that provide built in tinny navbar.
+you can edit and customize the navbar. The shortcode provide built in Navbar.
 
-Member can find there info in dashboard! And Mananger can see member info and can update also. However this is simple and minimal project that i created.
 
 ## Demo
 
 
 
-<img src="https://raw.githubusercontent.com/Oleraj09/Mess-Meal-System/master/Demo/1.PNG" alt="">
+<img src="https://github.com/Oleraj09/Time-Weather-Plugin/blob/master/Demo/style.png" alt="">
 
 
-<img src="https://raw.githubusercontent.com/Oleraj09/Mess-Meal-System/master/Demo/5.png" alt="User Dashboard">
-
-
-<img src="https://raw.githubusercontent.com/Oleraj09/Mess-Meal-System/master/Demo/6.png" alt="User Dashboard">
-
-
-<img src="https://raw.githubusercontent.com/Oleraj09/Mess-Meal-System/master/Demo/1.2.PNG" alt="">
+<img src="https://github.com/Oleraj09/Time-Weather-Plugin/blob/master/Demo/admin.png" alt="User Dashboard">
 
 
 
-<img src="https://raw.githubusercontent.com/Oleraj09/Mess-Meal-System/master/Demo/3.PNG" alt="">
-
-
-<img src="https://raw.githubusercontent.com/Oleraj09/Mess-Meal-System/master/Demo/4.png" alt="">
-
-
-<img src="https://raw.githubusercontent.com/Oleraj09/Mess-Meal-System/master/Demo/7.png" alt="">
-
-
-<img src="https://raw.githubusercontent.com/Oleraj09/Mess-Meal-System/master/Demo/8.png" alt="">
 
 ## Run Webapp
 To run this application must require node module and composer autoload module.
 
-- 1st Command use 
+- 1st Step, download this as zip
 
-
-        composer install
+      
+- 2nd Step, go to wp admin , then upload this plugin
         
         
-- 2nd Command use
+- 3rd Step, follow the instruction in the plugin
 
-
-        npm install
         
         
-- 3rd Command use
+- 4th Step, Enjoy the tinny navbar with time, location and weather update.
 
 
-        cp .env.example .env
-        
-        
-- 4th Command use
-
-
-        php artisan key:generate
-        
-        
-- Run xamp server to Create Database use 
-
-
-        php artisan migrate
-        
-        
-- Run the server 
-
-
-        php artisan serve
+Thanks for your time. 
         
         
